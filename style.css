@@ -1,0 +1,32 @@
+.image-gallery{
+text-align: center
+}
+
+.fullview {
+padding: 8px;
+background: linear-gradient(to right, #d3cce3, #e9e4f0); 
+box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2),
+0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 3px 1px -2px rgba(0, 0, 0, 0.12);}
+
+.preview{
+background: linear-gradient(to right, #d3cce3, #e9e4f0); 
+display: flex;
+justify-content: space-around;
+padding: 8px;
+list-style-type: none;
+background-size: cover;
+box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2),
+0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 3px 1px -2px rgba(0, 0, 0, 0.12);
+border: 
+}
+img{
+cursor: pointer;
+padding: 4px;
+box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2),
+0px 2px 2px 4px rgba(0, 0, 0, 0.14), 0px 3px 1px -2px rgba(0, 0, 0, 0.12);
+}
+
+
+.preview-border{
+      background-color: purple;
+}
